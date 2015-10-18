@@ -17,7 +17,8 @@ layout: default
 
   <section class="home-tabs">
     <div class="home-tab current home-tab--infos" data-tab-name="infos">
-      {% markdown infos.md %}
+      {% capture infos %}{% include infos.md %}{% endcapture %}
+      {{ infos | markdownify }}
     </div>
 
     <div class="home-tab home-tab--posts" data-tab-name="posts">
