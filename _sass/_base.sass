@@ -1,0 +1,67 @@
+body
+  width: 650px
+  margin: auto
+  color: #535353
+  font-size: 16px
+  line-height: 1.5em
+  font-family: 'Droid Serif', 'Georgia', serif
+
+h1, h2, h3, h4, h5, h6
+  font-family: 'Noto Sans', 'Helvetica', Arial, sans-serif
+  line-height: 1.5em
+  color: #444
+
+abbr[title]
+  border-bottom: 1px dotted
+
+.home
+  &-tabs
+    &-links
+      text-align: center
+  &-tab
+    display: none
+    &.current
+      display: block
+    &-link
+      display: inline-block
+      padding: 0 20px
+      font-size: 24px
+      text-transform: uppercase
+      cursor: pointer
+      &.current
+        cursor: default
+        text-decoration: underline
+    &--posts
+      .post-list
+        list-style: none
+        text-align: center
+      .post-item
+        margin-bottom: 20px
+        &-link
+          display: block
+          margin-bottom: 5px
+          font-size: 1.4em
+          color: #535353
+          text-decoration: none
+          &:hover
+            text-decoration: underline
+        &-date
+          display: block
+          color: #ccc
+          font-size: .8em
+
+.section-about-me
+  position: relative
+  text-align: center
+  margin: 120px 0 50px
+  padding: 0 20px 20px
+  background: #F3F3F3
+  img
+    margin-top: -50px
+    border-radius: 50%
+    border: 1px solid #CCC
+  h1
+    font-weight: normal
+
+.post
+  .post-header

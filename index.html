@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<div class="home">
+  <section class="section-about-me">
+    <img src="/assets/tarik.jpg" width="100" height="100"/>
+    <h1>
+      Tarik est un entrepreneur nomade. Il écrit des articles sur le design, l’expérience client, et le développement d’une entreprise en <abbr title="Software as a Service">SaaS</abbr>.
+    </h1>
+  </section>
+
+  <nav class="home-tabs-links">
+    <h2 class="home-tab-link current" data-tab="infos">Infos</h2>
+    <h2 class="home-tab-link" data-tab="posts">Articles</h2>
+  </nav>
+
+  <section class="home-tabs">
+    <div class="home-tab current home-tab--infos" data-tab-name="infos">
+      {% markdown infos.md %}
+    </div>
+
+    <div class="home-tab home-tab--posts" data-tab-name="posts">
+      <ul class="post-list">
+        {% for post in site.posts %}
+        <li class="post-item">
+          <a class="post-item-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <span class="post-item-date">{{ post.date | localize: "%B %-d, %Y" }}</span>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </section>
+</div>
