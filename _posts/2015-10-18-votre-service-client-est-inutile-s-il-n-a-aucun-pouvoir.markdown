@@ -14,6 +14,8 @@ Mon vol a été annulé trois fois de suite. Cela fait déjà huit heures qu’o
 ## Un service client ne sert à rien s’il n’a aucun pouvoir
 Un responsable support qui ne peut pas aider est au mieux inutile, au pire un défouloir pour ses clients. Votre équipe doit être en mesure d’aider à résoudre le problème des passagers, les apaiser. Ca n’a aucun sens et c’est même encore plus frustrant pour le client de recevoir une réponse qui consiste à dire qu’on ne peut pas l’aider. On nous donne alors l’impression d’être pris de haut.
 
+> **Commencez par apporter des bouteilles d’eau aux passagers. Faites distribuer des couvertures.**
+
 ## Comment Pegasus Airlines aurait pu nous aider
 Commencez par apporter des bouteilles d’eau aux passagers. Faites distribuer des couvertures. Si vous ne pouvez pas résoudre notre problème, faites l’effort de nous soulager - même 30 secondes.
 

@@ -1,15 +1,32 @@
-body
-  width: 650px
-  margin: auto
-  color: #535353
+*
+  box-sizing: border-box
+  -webkit-font-smothing: antialiased
+  -moz-osx-font-smoothing: grayscale
+
+\:root
   font-size: 16px
   line-height: 1.5em
+
+body
+  max-width: 720px
+  padding: 0 20px
+  margin: auto
+  color: #535353
   font-family: 'Droid Serif', 'Georgia', serif
 
 h1, h2, h3, h4, h5, h6
   font-family: 'Noto Sans', 'Helvetica', Arial, sans-serif
   line-height: 1.5em
   color: #444
+
+h1
+  font-size: 24px
+h2
+  font-size: 22px
+h3
+  font-size: 20px
+h4
+  font-size: 18px
 
 abbr[title]
   border-bottom: 1px dotted
@@ -32,6 +49,11 @@ abbr[title]
       &.current
         cursor: default
         text-decoration: underline
+    &--infos
+      font-size: 18px
+      line-height: 1.5em
+      h4
+        font-size: 22px
     &--posts
       .post-list
         list-style: none
@@ -76,6 +98,17 @@ abbr[title]
   &-content
     p
       margin-bottom: 2em
+
+    blockquote
+      font-family: 'Noto Sans', 'Helvetica', Arial, sans-serif
+      font-size: 18px
+      padding: 25px
+      margin: 0
+      background-color: #F3F3F3
+      > *:first-child
+        margin-top: 0
+      > *:last-child
+        margin-bottom: 0
 
   &-more
     border: 1px solid #999
