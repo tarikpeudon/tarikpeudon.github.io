@@ -10,4 +10,7 @@ Au quotidien, mon travail consiste principalement à être le “concierge” et
 Intersport, Leclerc, Vinci, HEC, France Téléachat, Fédération Française de Ski...
 
 #### Me Consulter
-Si vous pensez que je peux vous aider dans votre projet, n’hésitez pas à [me contacter](tarik.peudon@clicboutic.com). Je n’accepte qu’un nombre limité de missions de conseil par an.
+Si vous pensez que je peux vous aider dans votre projet, [écrivez-moi](tarik.peudon@clicboutic.com). 
+
+
+Je n’accepte qu’un nombre limité de missions de conseil par an.
