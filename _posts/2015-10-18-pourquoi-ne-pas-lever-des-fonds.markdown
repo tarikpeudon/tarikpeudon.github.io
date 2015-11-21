@@ -16,7 +16,7 @@ penser différemment notre business model dès le départ.
 Je suis convaincu que ça a fait de nous une entreprise plus saine que si nous avions levé 100k, 500k ou 
 1 million d’euros. Voici les 10 raisons pour lesquelles ça peut également être un avantage stratégique pour vous :
 
-## 1. Cela crée un fort sentiment d’urgence
+### 1. Cela crée un fort sentiment d’urgence
 
 Qui a le temps de chercher des locaux avec murs en brique apparente quand vous devez acquérir de nouveaux clients 
 et réduire vos coûts d’acquisition. La plupart du temps, ça vous oblige à être 100% concentré sur ce qui contribue 
