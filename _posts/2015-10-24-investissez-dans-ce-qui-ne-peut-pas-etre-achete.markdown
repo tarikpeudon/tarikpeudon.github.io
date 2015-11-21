@@ -34,7 +34,6 @@ leur compétence clé pour offrir une valeur unique à leurs clients :
 
 - Image de marque (Mailchimp)
 - Ressources éducatives (Hubspot)
-- Vidéos (Wistia)
 - Ingénierie de haut-niveau (Dropbox)
 - Communauté (Wordpress)
 - Design (Squarespace)
