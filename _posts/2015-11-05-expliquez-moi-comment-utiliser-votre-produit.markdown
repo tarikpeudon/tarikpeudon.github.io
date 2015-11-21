@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Merci de m'Indiquer la Meilleure Manière d'Utiliser Votre Produit"
+title:  "Merci de m'Indiquer Comment Utiliser Votre Produit"
 date:   2015-11-05 23:48:16
 categories: category1
 ---
