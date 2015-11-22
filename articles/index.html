@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="home">
+  <nav class="home-tabs-links">
+    <h2 class="home-tab-link current" data-tab="posts">Articles</h2>
+  </nav>
+
+  <section class="home-tabs">
+    <div class="home-tab home-tab--posts current" data-tab-name="posts">
+      <ul class="post-list">
+        {% for post in site.posts %}
+        <li class="post-item">
+          <a class="post-item-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <span class="post-item-date">{{ post.date | date: "%B %-d, %Y" }}</span>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </section>
+</div>
