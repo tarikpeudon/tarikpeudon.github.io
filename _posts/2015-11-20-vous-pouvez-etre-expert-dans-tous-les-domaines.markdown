@@ -5,7 +5,7 @@ date:   2015-11-21 19:25:25
 categories: category1
 ---
 
-L’apprentissage de nouvelles compétences est partie intégrante de notre quête du bonheur. Certaines compétences sont faciles à apprendre et nous donnent énormément de plaisir - ça a par exemple été mon expérience de l’apprentissage du squash. Tandis que d’autres donnent le sentiment d’être impossibles à apprendre mais, qu’une fois leur apprentissage maîtrisé, vous serez enfin heureux. Etre un entrepreneur qui a réussi par exemple.
+L’apprentissage de nouvelles compétences fait partie intégrante de notre quête du bonheur. Certaines compétences sont faciles à apprendre et nous donnent énormément de plaisir - c'est par exemple  mon expérience de l’apprentissage du squash. Tandis que d’autres donnent le sentiment d’être impossibles à apprendre mais, qu’une fois leur apprentissage maîtrisé, vous serez enfin heureux. Etre un entrepreneur qui a réussi par exemple.
 
 Si je devais faire un graphique de la joie engendrée par la pratique du squash depuis que j’ai démarré, ça donnerait un truc de ce genre :
 
