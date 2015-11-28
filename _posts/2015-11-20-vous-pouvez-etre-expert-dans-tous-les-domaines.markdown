@@ -5,13 +5,13 @@ date:   2015-11-21 19:25:25
 categories: category1
 ---
 
-L’apprentissage de nouvelles compétences fait partie intégrante de notre quête du bonheur. Certaines compétences sont faciles à apprendre et nous donnent énormément de plaisir - c'est par exemple  mon expérience de l’apprentissage du squash. Tandis que d’autres donnent le sentiment d’être impossibles à apprendre mais, qu’une fois leur apprentissage maîtrisé, vous serez enfin heureux. Etre un entrepreneur qui a réussi par exemple.
+L’apprentissage de nouvelles compétences est essentiel à notre bonheur. Certaines compétences sont faciles à apprendre et nous offrent énormément de plaisir - cela a été mon expérience de l’apprentissage du squash par exemple. Tandis que d’autres aptitudes peuvent nous donner le sentiment d’être impossibles à assimilier mais qu’une fois leur apprentissage maîtrisé, on sera enfin heureux. Etre un entrepreneur "qui a réussi" me vient immédiatement à l'esprit.
 
 Si je devais faire un graphique de la joie engendrée par la pratique du squash depuis que j’ai démarré, ça donnerait un truc de ce genre :
 
 ![comment-apprendre-competence](/assets/gr1.jpg)
 
-C’est essentiellement une progression linéaire. Ainsi, c’est plutôt facile de s’améliorer quand vous commencez à jouer. Vous apprenez à mieux vous placer sur le terrain, à anticiper la trajectoire de la balle et à renvoyer plus de coups. 
+C’est essentiellement une progression linéaire. En effet, c’est plutôt facile de s’améliorer quand vous commencez à jouer. Vous apprenez à mieux vous placer sur le terrain, à anticiper la trajectoire de la balle et à renvoyer plus de coups. 
 
 A chacun de ces moments, vous allez ressentir une montée d’adrénaline. C’est ce qui vous donne du plaisir dans l’apprentissage et vous donne envie de continuer à vous entrainer. Au fil du temps, vous apprenez à maitriser des coups de plus en plus durs qui génèrent de nouvelles montées d’adrénaline. Et ainsi de suite, jusqu’à ce que vous vous aperceviez que vous êtes devenu un excellent joueur de squash. 
 
