@@ -17,7 +17,7 @@ Une amie qui rentrait de vacances me racontait l’autre jour son expérience à
 
 Il existe un fort lien émotionnel associé à la dernière impression que nous laisse une personne ou une organisation. Vous pouvez avoir entretenu d’excellentes relations avec quelqu’un pendant des années, si vous vous plantez sur la dernière impression, tout le capital sympathie que vous aviez accumulé disparait à jamais. 
 
-> En laissant une dernière impression irréprochable à vos clients, vous augmenterez vos chances de rétablir une relation d’affaire avec eux dans le futur mais vous gagnerez surtout leur recommandation lorsque leur entourage leur demandera leur opinion. 
+> En laissant une dernière impression irréprochable à vos clients, vous augmenterez vos chances de rétablir une relation d’affaire avec eux dans le futur mais vous gagnerez surtout leur recommandation lorsque leur entourage leur demandera s'ils ont un produit à recommander.
 
 Dans le cas d’Uber, vous voulez refaire l’expérience de cette dernière impression. Vous vous sentez bien mieux qu’après une course en taxi, c’est une façon très agréable de terminer votre soirée.
 
