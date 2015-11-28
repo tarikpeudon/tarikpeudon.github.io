@@ -5,10 +5,7 @@ date:   2015-10-18 22:43:34
 categories: category1
 ---
 
-Le monde des startups adore célébrer les levées de fonds et ses montants record. 
-Je comprends. C’est toujours intéressante découvrir des entreprises à fort potentiel. Ca ne m’empêche pas de penser 
-qu’il y a beaucoup d’avantages à ne pas lever de fonds pour une entreprise, surtout au stade infantile. 
-Bien sûr, c’est moins sexy, mais gérer une startup qui démarre ne l’est pas tellement plus ;)
+Le monde des startups adore célébrer les levées de fonds et ses montants record. Je comprends. C’est toujours intéressant de découvrir des entreprises à fort potentiel. Ca ne m’empêche pas de penser qu’il y a beaucoup d’avantages à ne pas lever de fonds pour une entreprise, surtout au stade infantile. Bien sûr, c’est moins sexy, mais gérer une startup qui démarre ne l’est pas tellement plus ;)
 
 Ma société, Clicboutic, n’a jamais levé de fonds. Nous ne cherchons pas d’investisseurs et nous avons été obligés à penser différemment notre business model dès le départ.
 
