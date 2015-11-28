@@ -9,7 +9,7 @@ L’apprentissage de nouvelles compétences est partie intégrante de notre quê
 
 Si je devais faire un graphique de la joie engendrée par la pratique du squash depuis que j’ai démarré, ça donnerait un truc de ce genre :
 
-![Alt text](/assets/gr1.jpg)
+![comment-apprendre-competence](/assets/gr1.jpg)
 
 C’est essentiellement une progression linéaire. Ainsi, c’est plutôt facile de s’améliorer quand vous commencez à jouer. Vous apprenez à mieux vous placer sur le terrain, à anticiper la trajectoire de la balle et à renvoyer plus de coups. 
 
@@ -17,7 +17,7 @@ A chacun de ces moments, vous allez ressentir une montée d’adrénaline. C’e
 
 Génial, non ? Mais pourquoi certaines autres compétences sont si dures à acquérir ? Il est temps d’utiliser un nouveau graphique mal dessiné :
 
-[GRAPH]
+![apprendre-nouvelle-competence](/assets/gr2.jpg)
 
 Apprendre à jouer du panio est difficile. La plupart d’entre nous n’ont jamais réussi à dépasser la "vallée du désespoir et de la renonciation". C’est certainement lié au fait que pour s’amuser en jouant du piano on veut pouvoir improviser, composer nos propres morceaux, apprendre un air en s’aidant simplement de notre oreille et jouer avec notre propre créativité. Imaginez toute la joie que vous pourriez avoir si vous étiez capable de composer de la musique dès que vous le souhaitez.
 
@@ -27,7 +27,7 @@ Vous pouvez influencer la courbe de votre graphique en mesurant vos progrès en 
 
 Le graphique représentant votre apprentissage de ces compétences difficiles doit maintenant ressembler à ça : 
 
-[GRAPH]
+![apprendre-ameliorer-progresser](/assets/gr3.jpg)
 
 Fractionnez les éléments dont vous avez besoin pour acquérir de nouvelles compétencez et mesurez vos progrès en fonction de ces étapes intermédiaires. De cette manière, vous traverserez la vallée du désespoir sans même vous en rendre compte. 
 
