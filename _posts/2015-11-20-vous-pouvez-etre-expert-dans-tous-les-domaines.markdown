@@ -9,7 +9,7 @@ L’apprentissage de nouvelles compétences est partie intégrante de notre quê
 
 Si je devais faire un graphique de la joie engendrée par la pratique du squash depuis que j’ai démarré, ça donnerait un truc de ce genre :
 
-![Alt text](/path/to/gr1.jpg)
+![Alt text](/assets/gr1.jpg)
 
 C’est essentiellement une progression linéaire. Ainsi, c’est plutôt facile de s’améliorer quand vous commencez à jouer. Vous apprenez à mieux vous placer sur le terrain, à anticiper la trajectoire de la balle et à renvoyer plus de coups. 
 
