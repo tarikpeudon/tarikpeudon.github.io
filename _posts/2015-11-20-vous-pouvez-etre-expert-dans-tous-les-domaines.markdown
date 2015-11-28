@@ -11,7 +11,7 @@ Si je devais faire un graphique de la joie engendrée par la pratique du squash 
 
 ![comment-apprendre-competence](/assets/gr1.jpg)
 
-C’est essentiellement une progression linéaire. En effet, c’est plutôt facile de s’améliorer quand vous commencez à jouer. Vous apprenez à mieux vous placer sur le terrain, à anticiper la trajectoire de la balle et à renvoyer plus de coups. 
+C’est essentiellement une progression linéaire. Cela s'explique par le fait qu'il est plutôt facile de s’améliorer quand vous commencez à jouer. Vous apprenez rapidement à mieux vous placer sur le terrain, à anticiper la trajectoire de la balle et à renvoyer plus de coups. 
 
 A chacun de ces moments, vous allez ressentir une montée d’adrénaline. C’est ce qui vous donne du plaisir dans l’apprentissage et vous donne envie de continuer à vous entrainer. Au fil du temps, vous apprenez à maitriser des coups de plus en plus durs qui génèrent de nouvelles montées d’adrénaline. Et ainsi de suite, jusqu’à ce que vous vous aperceviez que vous êtes devenu un excellent joueur de squash. 
 
