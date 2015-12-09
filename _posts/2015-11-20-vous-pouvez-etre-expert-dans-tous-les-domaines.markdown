@@ -5,7 +5,7 @@ date:   2015-11-21 19:25:25
 categories: category1
 ---
 
-L’apprentissage de nouvelles compétences est essentiel à notre bonheur. Certaines compétences sont faciles à apprendre et nous offrent énormément de plaisir (cela a par exemple été mon expérience de l’apprentissage du squash)... Tandis que d’autres peuvent parfois nous donner le sentiment d’être dfficiles à acquérir mais potentiellement capables de nous rendre très heureux. Etre un entrepreneur "qui a réussi" me vient immédiatement à l'esprit.
+L’apprentissage de nouvelles compétences est essentiel à notre bonheur. Certaines compétences sont faciles à apprendre et nous apportent énormément de plaisir (cela a par exemple été mon expérience de l’apprentissage du squash)... Tandis que d’autres peuvent parfois nous donner le sentiment d’être dfficiles à acquérir mais potentiellement capables de nous rendre très heureux. Etre un entrepreneur "qui a réussi" me vient immédiatement à l'esprit.
 
 Si je devais faire un graphique de la joie engendrée par la pratique du squash depuis que j’ai démarré, ça donnerait un truc de ce genre :
 
@@ -19,7 +19,7 @@ Génial, non ? Mais pourquoi certaines autres compétences sont si dures à acqu
 
 ![apprendre-nouvelle-competence](/assets/gr1.jpg)
 
-Apprendre à jouer du panio est difficile. La plupart d’entre nous n’ont jamais réussi à dépasser la "vallée du désespoir et de la renonciation". C’est certainement lié au fait que pour s’amuser en jouant du piano on veut pouvoir improviser, composer nos propres morceaux, apprendre un air en s’aidant simplement de notre oreille et jouer avec notre propre créativité. Imaginez toute la joie que vous pourriez avoir si vous étiez capable de composer de la musique dès que vous le souhaitez.
+Apprendre à jouer du panio est difficile. La plupart d’entre nous n’ont jamais réussi à dépasser ce moment où l'on désespère d'un jour progresser et où on finit par renoncer. C’est certainement lié au fait que pour réellement prendre du plaisir en jouant du piano on veut pouvoir improviser, composer nos propres morceaux ou réussir à apprendre un air en s’aidant simplement de notre oreille. Imaginez le plaisir que vous pourriez avoir si vous étiez capable de composer de la musique en suivant simplement votre inspriation.
 
 Il existe un moyen…
 
