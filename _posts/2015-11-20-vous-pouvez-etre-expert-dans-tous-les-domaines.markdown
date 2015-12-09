@@ -23,17 +23,16 @@ Apprendre à jouer du panio est difficile. La plupart d’entre nous n’ont jam
 
 Il existe un moyen…
 
-Vous pouvez influencer la courbe de votre graphique en mesurant vos progrès en plus petites étapes. Vous retirez ainsi de la joie de chacune de vos réussites au fil du temps. 
+Vous pouvez influencer la courbe de votre graphique en mesurant vos progrès en plus petites étapes. De cette manière, chacun de vos (petits) succès devient une nouvelle source de joie.
 
-Le graphique représentant votre apprentissage de ces compétences difficiles doit maintenant ressembler à ça : 
+Le graphique représentant vos progrès doit maintenant ressembler à ça : 
 
 ![apprendre-ameliorer-progresser](/assets/gr3.jpg)
 
-Fractionnez les éléments dont vous avez besoin pour acquérir de nouvelles compétencez et mesurez vos progrès en fonction de ces étapes intermédiaires. De cette manière, vous traverserez la vallée du désespoir sans même vous en rendre compte. 
+Fractionnez les compétences que vous avez besoin d'acquérir et mesurez vos progrès en fonction de ces étapes intermédiaires. Cette technique est redoutablement efficace pour atteindre vos objectifs et éliminer ces périodes de doute et de renonciation.
 
-Plutôt que d’essayer d’écrire un bestseller, commencez par mesurer le nombre de visiteurs journaliers de votre blog. Essayez d’obtenir 5 lecteurs supplémentaires pour votre prochain article. Au fur et à mesure que votre trafic augmente, déplacez le curseur sur le nombre de visiteurs hebdomadaires puis mensuels. Au lieu de lancer votre startup en vous disant que vous voulez vendre votre entreprise pour 10 millions d’euros, mesurez le nombre de personnes à qui vous avez parlé de votre entreprise ce mois-ci. Mesurez ensuite le nombre de prospects mensuels. Faites évoluer vos  indicateurs de progrès afin de toujours avoir des objectifs réalisables qui vous apportent de la joie tout en vous aidant à avancer en direction du point le plus haut de votre graphique.
+Plutôt que d’essayer d’écrire un bestseller, commencez par mesurer le nombre de visiteurs journaliers de votre blog. Essayez d’obtenir 5 lecteurs supplémentaires pour votre prochain article. Au lieu de lancer votre startup avec pour objectif de vendre votre entreprise 10 millions d’euros, mesurez le nombre de personnes à qui vous avez parlé de votre entreprise ce mois-ci. Mesurez ensuite le nombre de prospects mensuels. Faites évoluer vos  indicateurs de progrès afin de toujours avoir des objectifs réalisables qui vous rendent fier tout en vous aidant à avancer en direction du point le plus haut de votre graphique.
 
-
-La vie consiste en une somme de compétences qui attendent d’être maitrisées. A vous de choisir celles que vous voulez maitriser et de trouver des moyens de vous amuser en cours de route.
+La vie consiste en une somme de compétences qui attendent d’être maitrisées. A vous de choisir celles que vous voulez apprendre et de trouver des moyens de vous amuser en cours de route.
 
 Quelles nouvelles compétences voulez-vous acquérir ? Dans quel domaine voulez-vous être le meilleur ?
