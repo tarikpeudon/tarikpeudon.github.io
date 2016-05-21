@@ -7,7 +7,7 @@ categories: category1
 
 Ces dernières années, j’avais pris l’habitude d’écrire plusieurs articles par semaine pour le blog de Clicboutic. Fin 2014, j’ai arrêté d’écrire. J’étais trop pris par d’autres tâches. J’avais perdu le désir d’écrire. Je n’avais plus aucune idée de sujets à aborder sur le blog. J’avais perdu l’inspiration.
 
-La créativité est un muscle inconstant, elle se dégonfle dès que vous ne l’exercez plus. Ignorez votre créativité et elle s’atrophiera.
+> **La créativité est un muscle inconstant, elle se dégonfle dès que vous ne l’exercez plus. Ignorez votre créativité et elle s’atrophiera.**
 
 La seule manière d’étancher la soif de créativité de votre muscle est de laisser vos créations prendre forme et voir le jour.
 
@@ -23,6 +23,6 @@ Devez-vous l’écouter pour autant ?
 
 Si vous créez quelque chose de moche, votre muscle ne sera pas satisfait. Il sera même dégoûté. Bien sûr, vous pouvez lui dire de la fermer, le rappeler au principe d’efficacité. Après tout, vous gagnez bien votre vie. D’ailleurs, vous commencez à l’ignorer. Si vous vous débrouillez bien, vous arriverez à réduire complètement au silence votre créativité en vous concentrant sur votre compte en banque à la fin du mois, la tonne d’e-mails que vous recevez et tout un tas d’autres distractions. 
 
-Faites attention à ne pas tuer votre créativité en appliquant votre intelligence à des tâches qui ne stimulent pas votre muscle. Car en persévérant dans cette voie, votre muscle s’atrophiera et il retournera se nicher au fond de sa cage pour ne plus jamais se réveiller.
+> **Faites attention à ne pas tuer votre créativité en appliquant votre intelligence à des tâches qui ne stimulent pas votre muscle. Car en persévérant dans cette voie, **votre muscle s’atrophiera et il retournera se nicher au fond de sa cage** pour ne plus jamais se réveiller.**
 
 
