@@ -6,7 +6,7 @@ categories: category1
 ---
 
 Si je devais retenir un motif de dégradation de mes relations interpersonnelles au fil des années, ce serait les malentendus. 
-> **Le type de malentendu le plus fréquent se produit lorsque les attentes d’une personne vis à vis d’une autre ne sont pas clairement exprimées.** 
+> **Le type de malentendu le plus fréquent se produit lorsque les attentes d’une personne vis à vis d’une autre ne sont pas clairement exprimées.**
 
 D’après mon expérience, cela a toujours produit le même résultat : incompréhension, frustration et peine.
 
