@@ -17,12 +17,14 @@ Au fur et à mesure que vos responsabilités vis à vis de votre entreprise pren
 
 Il y a quelques mois, j’ai recruté Estelle pour relancer la publication hebdomadaire d’articles sur le blog. En parallèle, je me suis engagé à consacrer 30 minutes par jour à l’écriture. Le produit de cet investissement sera peut-être publié, mais ça n’a pas réellement d’importance. Ce qui compte, c’est que je travaille de nouveau mon muscle créatif avec constance.
 
-Mais la créativité est aussi un muscle jaloux. Quand vous consacrez votre temps à d’autres tâches qui ne permettent pas à votre muscle de travailler, il devient jaloux. Il veut être remis au travail. L’écriture n’est qu’un de mes muscles créatifs parmi d’autres. Lorsque j’accorde plus d’attention à l’un de mes muscles, les autres deviennent jaloux. 
+> **Mais la créativité est aussi un muscle jaloux. Quand vous consacrez votre temps à d’autres tâches qui ne permettent pas à votre muscle de travailler, il devient jaloux.**
+
+Votre muscle veut être remis au travail. L’écriture n’est qu’un de mes muscles créatifs parmi d’autres. Lorsque j’accorde plus d’attention à l’un de mes muscles, les autres deviennent jaloux. 
 
 Devez-vous l’écouter pour autant ?
 
 Si vous créez quelque chose de moche, votre muscle ne sera pas satisfait. Il sera même dégoûté. Bien sûr, vous pouvez lui dire de la fermer, le rappeler au principe d’efficacité. Après tout, vous gagnez bien votre vie. D’ailleurs, vous commencez à l’ignorer. Si vous vous débrouillez bien, vous arriverez à réduire complètement au silence votre créativité en vous concentrant sur votre compte en banque à la fin du mois, la tonne d’e-mails que vous recevez et tout un tas d’autres distractions. 
 
-> **Faites attention à ne pas tuer votre créativité en appliquant votre intelligence à des tâches qui ne stimulent pas votre muscle. Car en persévérant dans cette voie, **votre muscle s’atrophiera et il retournera se nicher au fond de sa cage** pour ne plus jamais se réveiller.**
+Faites attention à ne pas tuer votre créativité en appliquant votre intelligence à des tâches qui ne stimulent pas votre muscle. Car en persévérant dans cette voie, votre muscle s’atrophiera et il retournera se nicher au fond de sa cage pour ne plus jamais se réveiller.
 
 
