@@ -1,6 +1,6 @@
 Hello depuis Rio de Janeiro ! 
 
-J’organise mon temps entre [Clicboutic](http://clicboutic.com/) (plateforme e-commerce et logiciel de boutique en ligne), [Clicboutic Payments](https://www.clicboutic-payments.com/) et [PS Engine](http://clicboutic.com/psengine/) (hébergement et infogérance Prestashop pour les designers et les agences).
+J’organise mon temps entre [Clicboutic](http://clicboutic.com/) (plateforme e-commerce et logiciel de boutique en ligne), [Clicboutic Payments](https://www.clicboutic-payments.com/) (solution de paiement clé-en-main pour les marchands Clicboutic et Prestashop) et [PS Engine](http://clicboutic.com/psengine/) (hébergement et infogérance Prestashop pour les designers et les agences).
 
 Notre équipe fonctionne en télétravail. Je tire d’ailleurs profit de cette organisation pour vivre et travailler en [“digital nomade”](https://www.instagram.com/tnpb27/).
 
